@@ -14,7 +14,7 @@ This is a wine recommendation chatbot for specific business use that translate t
 To check-out the repo:
 
 ```
-git clone https://github.com/ZhengWang01/WineBot.git
+git clone https://github.com/ZhengWang01/VP_chatbot.git
 ```
 
 
@@ -66,7 +66,7 @@ Below is the structure of this repo.
 
 clone the project:
 ```
-git clone https://github.com/ZhengWang01/WineBot.git
+git clone https://github.com/ZhengWang01/VP_chatbot.git
 ```
 Get into the main folder:
 ```
