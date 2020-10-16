@@ -102,8 +102,6 @@ pip3 install -r requirements.txt
 
 ## Run A Train and Test
 
-The example code of how to train and check the results can be found in the Jupyter notebooks train_model.ipynb and run_model.ipynb.
-
 Choice #1. To run the Rasa Chatbot in terminal, run:
 
 ```
