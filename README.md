@@ -70,7 +70,7 @@ git clone https://github.com/ZhengWang01/VP_chatbot.git
 ```
 Get into the main folder:
 ```
-cd WineBot
+cd VP_chatbot
 ```
 
 Creating a virtual environment for the project
