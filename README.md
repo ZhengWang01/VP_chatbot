@@ -7,7 +7,7 @@ This is a wine recommendation chatbot for specific business use that translate t
 2. [Repo Structure](README.md#repo-structure)
 3. [Setup](README.md#setup)
 4. [Requirements](README.md#requirements)
-5. [Run A Train and Test](README.md#run-a-train-and-test)
+5. [Run and Test](README.md#run-and-test)
 
 
 
@@ -100,7 +100,7 @@ pip3 install -r requirements.txt
 ```
 
 
-## Run A Train and Test
+## Run and Test
 
 Choice #1. To run the Rasa Chatbot in terminal, run:
 
