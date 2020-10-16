@@ -117,5 +117,5 @@ In another terminal in the save directory and virtual environment, run:
 ```
 rasa run actions
 ```
-double-click on the index.html
+Double-click on the index.html
 
