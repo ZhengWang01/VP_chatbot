@@ -1,15 +1,14 @@
-# WineBot
-Your personal assistant in finding the optimum wine.
+# VP_chatbot
+
 
 # Table of Contents
 This is a wine recommendation chatbot for specific business use that translate taxonomy data into an interactive dialog.
-1. [Motivations](README.md#motivations)
-2. [Overview of the Project](README.md#overview-of-the-project)
-3. [Repo Structure](README.md#repo-structure)
-4. [Setup](README.md#setup)
-5. [Requirements](README.md#requirements)
-6. [Run A Train and Test](README.md#run-a-train-and-test)
-10. [Details of the Implementation](README.md#details-of-the-implementation)
+1.  [Overview of the Project](README.md#overview-of-the-project)
+2. [Repo Structure](README.md#repo-structure)
+3. [Setup](README.md#setup)
+4. [Requirements](README.md#requirements)
+5. [Run A Train and Test](README.md#run-a-train-and-test)
+
 
 
 To check-out the repo:
@@ -18,13 +17,10 @@ To check-out the repo:
 git clone https://github.com/ZhengWang01/WineBot.git
 ```
 
-## Motivations
 
-According to an on-line survey, 44% of U.S. consumers prefer chat-bots to humans when it comes to customer relations. More than 80% of company is utilizing chatbot in 2020. Chatbot offer a multitude of benefits for both the customer and company. It increases customers satisfaction and generated more revenue for companies.
 
 ## Overview of the Project
 
-In this project, I utilized the [Rasa](https://rasa.com/) open source chatbot. I trained Latent Sentiment Analysis models that takes the preprocessed customer query, and give corresponding recommendation based on what the customer need.
 
 The deliverable of the project is a Web App that allows user to tell the chatbot what they need, and get the recommendation on which wine they should buy.
 
@@ -64,7 +60,6 @@ Below is the structure of this repo.
     ├── endpoints.yml
     ├── index.html
     ├── requirements.txt
-    ├── run_mode.ipynb
     └── train_model.ipynb
 
 ## Setup
@@ -123,8 +118,5 @@ In another terminal in the save directory and virtual environment, run:
 ```
 rasa run actions
 ```
-click on the index.html
-
-
-## Details of the Implementation
+double-click on the index.html
 
