@@ -97,6 +97,10 @@ On Windows:
 Install the dependencies for the project (this may take a while):
 
 ```
+pip3 install --upgrade pip
+```
+
+```
 pip3 install -r requirements.txt
 ```
 
